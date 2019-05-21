@@ -1,13 +1,13 @@
 body{
 	width: 100%;
 	height: 100%;
-	background-image: url(mal20.jpeg);
+	background-image: url(mal25.png);
 	background-repeat: no-repeat;
 
 }
 .bu{
 	margin-bottom: 50%;
-	text-align: auto;
+	text-align: center;
 	font-size: 30px;
 	color: red;
 }
@@ -52,7 +52,7 @@ html,body{
 	width: 100%;
 	padding:0 2%;
 	height: 557px;
-	background-image:url('mal20.jpeg');
+	background-image:url('mal25.png');
 	background-size: cover;
 	background-position: center;
 }
@@ -282,7 +282,7 @@ html,body{
 	body{
 	width: 100%;
 	height: auto;
-	background-image: url(mal20.jpeg);
+	background-image: url(mal25.png);
 	background-repeat: no-repeat;
 }
 	.container-2{
