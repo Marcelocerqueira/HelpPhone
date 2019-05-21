@@ -224,7 +224,7 @@ html,body{
 }
 
 
-@media screen and (max-width: 1024px){
+@media screen and (max-width: 300px){
 
 	
 
@@ -278,7 +278,7 @@ html,body{
 	}
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 360px){
 	body{
 	width: 100%;
 	height: auto;
